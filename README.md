@@ -44,14 +44,17 @@ My journey in computer information has led me to develop a deep passion for cybe
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
+
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 </div>
+
+## Knowledge
+
+I have practical knowledge and hands-on experience with:  
+- **CompTIA Network+**  
+- **CompTIA A+**
 
 ## Projects
 - Detection Lab
 - SOC Automation Project
-- active directory SIEM log Analysis

@@ -6,15 +6,15 @@ CIS student & aspiring Cloud/DevOps Engineer. I build full-stack cloud platforms
 
 **🚀 Cloud & DevOps Projects:**
 
-1. [cloudflow — Production-Style DevOps Platform on AWS](https://github.com/yourusername/cloudflow)
+1. [CloudFlow — Cloud-Native DevOps Platform on AWS](https://github.com/yourusername/aws-cloud-native-devops-platform)
    Terraform → EKS → Kubernetes → Helm → GitHub Actions (OIDC) → Prometheus/Grafana. Self-healing, autoscaling, chaos-tested.
-2. [CloudGuard — Multi-Account AWS Security Platform](https://github.com/yourusername/cloudguard-platform)
+2. [CloudGuard — Multi-Account AWS Security Platform](https://github.com/yourusername/CloudGuard — Multi-Account AWS Security Platform)
    AWS Organizations + automated detection/response (EventBridge → Step Functions → Lambda), DevSecOps CI/CD gates, hand-built detections mapped to MITRE ATT&CK.
 
 - 🔭 Currently building out CloudGuard's detection engineering layer
 - 🌱 Studying for the CKA (Certified Kubernetes Administrator)
 - 💬 Ask me about Terraform, Kubernetes, or AWS security architecture
-- 📫 Reach me at [your.email@example.com](mailto:your.email@example.com) · [LinkedIn](https://linkedin.com/in/yourprofile)
+- 📫 Reach me at [isseali273@gmail.com](mailto:isseali273@gmail.com) · [LinkedIn](https://www.linkedin.com/in/isse-ali/)
 
 ---
 

@@ -6,9 +6,9 @@ CIS student & aspiring Cloud/DevOps Engineer. I build full-stack cloud platforms
 
 **🚀 Cloud & DevOps Projects:**
 
-1. [CloudFlow — Cloud-Native DevOps Platform on AWS](https://github.com/yourusername/aws-cloud-native-devops-platform)
+1. [CloudFlow — Cloud-Native DevOps Platform on AWS](https://github.com/endeedslap/aws-cloud-native-devops-platform)
    Terraform → EKS → Kubernetes → Helm → GitHub Actions (OIDC) → Prometheus/Grafana. Self-healing, autoscaling, chaos-tested.
-2. [CloudGuard — Multi-Account AWS Security Platform](https://github.com/yourusername/CloudGuard — Multi-Account AWS Security Platform)
+2. [CloudGuard — Multi-Account AWS Security Platform](https://github.com/endeedslap/CloudGuard — Multi-Account AWS Security Platform)
    AWS Organizations + automated detection/response (EventBridge → Step Functions → Lambda), DevSecOps CI/CD gates, hand-built detections mapped to MITRE ATT&CK.
 
 - 🔭 Currently building out CloudGuard's detection engineering layer

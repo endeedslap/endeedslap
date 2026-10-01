@@ -30,14 +30,3 @@ CIS student & aspiring Cloud/DevOps Engineer. I build full-stack cloud platforms
 ![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 
----
-
-**📌 Pinned**
-
-> GitHub lets you pin up to 6 repos right under this README — pin `cloudflow` and `CloudGuard` first once they have real commits, so they're the first thing a visitor sees.
-
----
-
-<!-- Optional: GitHub stats cards, same idea as Rowan's — pick one:
-![Isse's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default)
--->

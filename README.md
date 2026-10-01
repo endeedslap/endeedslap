@@ -30,3 +30,10 @@ CIS student & aspiring Cloud/DevOps Engineer. I build full-stack cloud platforms
 ![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 
+---
+
+**📜 Certifications:**
+
+![AZ-900](https://img.shields.io/badge/Microsoft-AZ--900-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Security+](https://img.shields.io/badge/CompTIA-Security%2B-E2231A?style=flat-square&logo=comptia&logoColor=white)
+![AWS CCP](https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?style=flat-square&logo=amazonaws&logoColor=white)

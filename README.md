@@ -12,6 +12,10 @@ CIS student & aspiring Cloud/DevOps Engineer. I build full-stack cloud platforms
 2. [CI/CD Pipeline with GitHub Actions, Docker & AWS EC2](https://github.com/endeedslap/CI-CD-Pipeline-with-GitHub-Actions-Docker-AWS-EC2)
    GitHub Actions → Docker → AWS EC2 → Automated CI/CD Deployment.
 
+- 🔭 Currently building out CloudGuard's detection engineering layer
+- 🌱 Studying for the CKA (Certified Kubernetes Administrator)
+- 💬 Ask me about Terraform, Kubernetes, or AWS security architecture
+- 📫 Reach me at [isseali273@gmail.com](mailto:isseali273@gmail.com) · [LinkedIn](https://www.linkedin.com/in/isse-ali/)
 
 ---
 

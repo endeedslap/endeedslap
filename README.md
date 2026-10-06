@@ -6,15 +6,12 @@ CIS student & aspiring Cloud/DevOps Engineer. I build full-stack cloud platforms
 
 **🚀 Cloud & DevOps Projects:**
 
-1. [CloudFlow — Cloud-Native DevOps Platform on AWS](https://github.com/endeedslap/aws-cloud-native-devops-platform)
-   Terraform → EKS → Kubernetes → Helm → GitHub Actions (OIDC) → Prometheus/Grafana. Self-healing, autoscaling, chaos-tested.
-2. [CloudGuard — Multi-Account AWS Security Platform](https://github.com/endeedslap/CloudGuard-AWS-Security-Platform)
-   AWS Organizations + automated detection/response (EventBridge → Step Functions → Lambda), DevSecOps CI/CD gates, hand-built detections mapped to MITRE ATT&CK.
+1. [Terraform Infrastructure as Code](https://github.com/endeedslap/Terraform-Infrastructure-as-Code)
+   Terraform → AWS → Infrastructure as Code → Automated Infrastructure Management.
 
-- 🔭 Currently building out CloudGuard's detection engineering layer
-- 🌱 Studying for the CKA (Certified Kubernetes Administrator)
-- 💬 Ask me about Terraform, Kubernetes, or AWS security architecture
-- 📫 Reach me at [isseali273@gmail.com](mailto:isseali273@gmail.com) · [LinkedIn](https://www.linkedin.com/in/isse-ali/)
+2. [CI/CD Pipeline with GitHub Actions, Docker & AWS EC2](https://github.com/endeedslap/CI-CD-Pipeline-with-GitHub-Actions-Docker-AWS-EC2)
+   GitHub Actions → Docker → AWS EC2 → Automated CI/CD Deployment.
+
 
 ---
 
